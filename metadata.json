@@ -1,0 +1,13 @@
+{
+  "repository": "fineshop/blogger-themes",
+  "version": "static-dev",
+  "base": "https://cdn.jsdelivr.net/gh/fineshop/blogger-themes@static-dev/",
+  "themes": [
+    {
+      "name": "@themes/plus-ui",
+      "version": "0.0.0",
+      "directory": "plus-ui",
+      "base": "https://cdn.jsdelivr.net/gh/fineshop/blogger-themes@static-dev/plus-ui/"
+    }
+  ]
+}
