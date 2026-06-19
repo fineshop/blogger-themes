@@ -17,7 +17,7 @@
   "dependencies": {
     "@deox/utils": "^0.0.6",
     "@fontsource-variable/google-sans-flex": "^5.2.3",
-    "mpa-navigate": "^0.0.2",
+    "mpa-navigate": "^0.0.3",
     "svelte": "^5.56.3",
     "svelte-sonner": "^1.1.1",
     "tailwindcss": "^4.3.1",
