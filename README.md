@@ -2,4 +2,4 @@
 
 | Name | Version |
 |------|---------|
-| `@themes/plus-ui` | `0.0.0` |
+| `@themes/base-ui` | `0.0.0` |
