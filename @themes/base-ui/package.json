@@ -18,7 +18,7 @@
     "@deox/utils": "^0.1.0",
     "@fontsource-variable/google-sans-flex": "^5.3.1",
     "@themes/ui": "0.0.0",
-    "pjax-navigate": "^0.0.3",
+    "pjax-navigate": "^0.0.4",
     "svelte": "^5.57.1",
     "svelte-sonner": "^1.2.1",
     "tailwindcss": "^4.3.3",
